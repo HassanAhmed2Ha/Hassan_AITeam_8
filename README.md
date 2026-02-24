@@ -8,7 +8,7 @@ I am an undergraduate student at the **Faculty of Agriculture, Alexandria Univer
 I believe in continuous learning and building strong foundational knowledge before jumping into ready-made tools. Currently, I am:
 * Exploring advanced AI concepts, RAG agents, and hardware for TinyML.
 * Expanding my data visualization toolkit and learning technical IT English and Spanish.
-* Honored to be nominated for the 2026 Mozilla Fellowship and actively pursuing global educational opportunities.
+
 * Working as a Research Cohort Member at Misr El Kheir Foundation (MEK) focusing on research methodology and academic writing.
 
 ## About This Repository
