@@ -12,12 +12,7 @@ I believe in continuous learning and building strong foundational knowledge befo
 * Honored to be nominated for the 2026 Mozilla Fellowship and actively pursuing global educational opportunities.
 
 ## About This Repository
-**Hassan_AITeam_8** serves as a central hub and portfolio for my AI and Data Science training tasks. It documents my journey in learning the core mathematical and programming foundations required for the AI field.
-
-### Featured Content: Hello IEEE Task
-Currently, this repository hosts my work on the **Hello IEEE** project, which is divided into:
-1. **Mathematical Research:** Deep dives into the Trapezoid Rule for integration and the mathematical logic behind Min-Max Matrix Normalization for AI applications.
-2. **From-Scratch Programming:** A pure Python implementation of a Matrix Calculator. This includes Matrix Summation, Subtraction, Dot Product Multiplication, Scalar operations, and Normalization—built entirely without external libraries to solidify my understanding of nested algorithms and linear algebra logic.
+**Hassan_AITeam_8** serves as a central hub and portfolio for my AI and Data Science training tasks. It documents my journey in learning the core mathematical and programming foundations required for the AI field. This space will continue to grow as I tackle more complex challenges and share my progress in the world of Artificial Intelligence.
 
 ## Let's Connect
 I am always open to discussing data science, bioinformatics algorithms, or exciting new tech opportunities. Feel free to explore my work and reach out:
